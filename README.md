@@ -9,10 +9,15 @@ Setiap tab merepresentasikan fungsi CRUD yang berbeda menambah data, menampilkan
 # Fitur Utama
 
 Create: Menambahkan data baru ke database.
+
 Read: Menampilkan data dari tabel Kendaraan dan Pemilik.
+
 Update: Memperbarui data yang sudah ada.
+
 Delete: Menghapus data dari database.
+
 Upload CSV: Mengimpor data dari file .csv.
+
 Tabbed Pane UI: Navigasi mudah antar fitur CRUD dalam satu jendela.
 
 # Konsep Utama: Persistence
